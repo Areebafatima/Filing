@@ -1,0 +1,15 @@
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.exe
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.pdb
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\bin\Debug\Filing1.exe
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\bin\Debug\Filing1.pdb
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.csprojResolveAssemblyReference.cache
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.Form1.resources
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.Form2.resources
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.Form3.resources
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.Form4.resources
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.Properties.Resources.resources
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.csproj.GenerateResource.Cache
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\bin\Debug\Filing1.exe.manifest
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\bin\Debug\Filing1.application
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.exe.manifest
+G:\Documents\VISUAL STUDIO 2015\Projects\Filing1\Filing1\obj\x86\Debug\Filing1.application
